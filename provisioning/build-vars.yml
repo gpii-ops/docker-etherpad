@@ -5,7 +5,6 @@ etherpad_admin_users:
 etherpad_users: 
 
 # self-test configuration for CONTAINER_TEST mode
-nodejs_version: "0.12.7"
 nodejs_app_name: etherpad
 nodejs_app_host_address: 127.0.0.1
 nodejs_app_tcp_port: 9001
